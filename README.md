@@ -1,1 +1,1 @@
-# Animate-Plots
+# Animated-Plots
